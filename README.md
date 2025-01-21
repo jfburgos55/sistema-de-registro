@@ -4,7 +4,7 @@
 
 Para ejecutar el sistema, debes ejecutar e instalar:
 
-'''npm install react'''
+```npm install react```
 
 
 <footer><b>Powered by: </b>John</footer>
